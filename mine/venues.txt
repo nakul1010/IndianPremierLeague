@@ -1,0 +1,11 @@
+{'Eden Gardens': 0,
+ 'Feroz Shah Kotla': 1,
+ 'Kingsmead': 2,
+ 'M Chinnaswamy Stadium': 3,
+ 'MA Chidambaram Stadium, Chepauk': 4,
+ 'Punjab Cricket Association Stadium, Mohali': 5,
+ 'Rajiv Gandhi International Stadium, Uppal': 6,
+ 'Sardar Patel Stadium, Motera': 7,
+ 'Sawai Mansingh Stadium': 8,
+ 'Wankhede Stadium': 9,
+ 'other': 10}
